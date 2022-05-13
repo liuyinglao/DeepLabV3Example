@@ -1,6 +1,6 @@
-# DeepLabV3Example
+# DeepLabV3 Example
 
-The repository contains code for a [PyTorch Live](https://pytorch.org/live) object detection prototype. The prototype uses the [DeepLabV3 model](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/) for the semantic segmentation task and runs on-device. It runs on Android only for now.
+The repository contains code for a [PyTorch Live](https://pytorch.org/live) image segmentation prototype. The prototype uses the [DeepLabV3 model](https://pytorch.org/hub/pytorch_vision_deeplabv3_resnet101/) for the semantic segmentation task and runs on-device. It runs on Android only for now.
 
 **NOTE: This example uses an unreleased version of PyTorch Live including an API that is currently under development and can change for the final release.**
 
@@ -18,7 +18,8 @@ Unused packages were removed and `react-native` upgraded to version `0.64.3`.
 
 |Android|iOS|
 | --------------------- | --------------------- |
-|![Screenshot of DeepLabV3Example on Android](https://user-images.githubusercontent.com/49705509/168178453-b5525059-23cb-4c31-a050-9fdff3e1212f.png)|!TODO: add Screenshot of DeepLabV3Example on iOS|
+|![Screenshot of DeepLabV3Example on Android](./screenshots/screenshot-android.png)|![Screenshot of DeepLabV3Example on iOS](./screenshots/screenshot-ios.png)|
+
 
 # Run project in emulator or on a device
 
