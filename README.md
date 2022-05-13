@@ -1,7 +1,7 @@
 # DeeplabV3Example
 Demo using DeeplabV3 with Pytorch Live
 
-Only tested on Android Simulator
+Only tested on Android Emulator
 
 ```
 yarn
